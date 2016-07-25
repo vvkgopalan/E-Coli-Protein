@@ -1,7 +1,7 @@
 # E-Coli-Protein : Human
 ###Vivek Gopalan
 ##D-xylose transporter:
-D-xylose is a simple sugar and is use din an absorptiontest in humans to check how well intestines are absorbing   d-xylose. It is performed to diagnose conditions that are present due to malabsorption of sugars. D-xylose is a simple sugar that doesnt need to be broken down. This protein is important as it allows for a transport channel for the D-xylose and is a xylose specific operon that is regulated by genes encoding glucose and mannose uptake. This is found on the xyLE gene and it can help biologists study gene regulation and protein export. 
+<p style = "color:teal; font-family:courier; backgroud-color:orange">D-xylose is a simple sugar and is use din an absorptiontest in humans to check how well intestines are absorbing   d-xylose. It is performed to diagnose conditions that are present due to malabsorption of sugars. D-xylose is a simple sugar that doesnt need to be broken down. This protein is important as it allows for a transport channel for the D-xylose and is a xylose specific operon that is regulated by genes encoding glucose and mannose uptake. This is found on the xyLE gene and it can help biologists study gene regulation and protein export.</p>
 ##methyl-directed mismatch repair protein:
 Correct for errors due to DNA polymerase (1 in 1000 bases) which could have a disastrous effect if not present. It checks for errors and corrects them at an error rate of 1/1000000. It is a protein used for recognizing and repairing erroneous insertion, deletion, and misincorporation of bases that can arise during DNA replication and recombination, as well as reparing some forms of DNA damage. 
 ##putative ATP-dependent helicase:
